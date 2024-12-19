@@ -9,7 +9,7 @@
     "declaration": true /* Generates corresponding '.d.ts' file. */,
     "declarationMap": true /* Generates a sourcemap for each corresponding '.d.ts' file. */,
     "outDir": "./dist" /* Redirect output structure to the directory. */,
-
+    "moduleResolution": "node",
     /* Strict Type-Checking Options */
     "strict": true /* Enable all strict type-checking options. */,
 
